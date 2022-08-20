@@ -1,6 +1,7 @@
 package Loop;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class Reverse_numbers {
 
@@ -17,5 +18,10 @@ public class Reverse_numbers {
 
         System.out.println(Arrays.toString(reverse));
 
-    }
+
+
+
+
+
+}
 }
